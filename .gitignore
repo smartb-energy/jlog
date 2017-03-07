@@ -25,3 +25,4 @@ java/libjlog.jnilib
 java/jlog.jar
 java/*.class
 *~
+results/*
